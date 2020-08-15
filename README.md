@@ -1,29 +1,22 @@
+<div style="text-align:center"><img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" height="300px" width="300px" /></div>
+
 ### Hi there 👋
 I'm Felipe Gomes, and I'm a front-end web developer.
 
-- ⚡ Thing I know:
+### ⚡ Thing I know:
 - [x] HTML5;
 - [x] CSS3;
 - [x] JavaScript, ES6.
 
-- 🔭 I’m currently working on some projects of my own, so that I can fill my github portfolio up. You can see a few projects that I coded in my repos, already.
+### 🔭 I’m currently working on: 
+Some projects of my own can be seen here. You can see a few of them in my repos, already.
 
-- 🌱 I’m currently learning ReactJS and NodeJS (I'm planning on being a ful-stack developer). In the near future I wanna learn React Native as well, so I can develop for mobile devices.
+### 🌱 I’m currently learning:
+ReactJS and NodeJS (I'm planning on being a ful-stack developer) are the programming languages I'm currently wornking on. In the near future I wanna learn React Native as well, so I can develop for mobile devices.
 
-- 📫 You can reach me on:
-<img src="http://www.fazenda.gov.br/acesso-a-informacao/institucional/redes-sociais/imagens/twitter_social_icon_circle_color.png/image_view_fullscreen" height="30px" width="30px"> https://twitter.com/felipevgomes10
+### 📫 You can reach me on:
+<img src="img/twitter.png" height="20px" width="20px"> https://twitter.com/felipevgomes10 <br>
+<img src="img/linkedin.png" height="20px" width="20px"> https://www.linkedin.com/in/felipe-gomes-4b70221a8/ <br>
+<img src="img/instagram.png" height="20px" width="20px"> https://www.instagram.com/felipevgomes10/ <br>
 
-<!--
-**felipevgomes10/felipevgomes10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋👋👋
