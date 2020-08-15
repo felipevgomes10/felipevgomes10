@@ -16,7 +16,7 @@ ReactJS and NodeJS (I'm planning on being a full-stack developer) are the progra
 
 ### 📫 You can reach me on:
 <img src="https://i1.wp.com/openvisualfx.com/wp-content/uploads/2019/10/pnglot.com-twitter-bird-logo-png-139932.png?resize=1024%2C1024&ssl=1" height="20px" width="20px"> https://twitter.com/felipevgomes10 <br>
-<img src="/img/linkedin.png" height="20px" width="20px"> https://www.linkedin.com/in/felipe-gomes-4b70221a8/ <br>
-<img src="/img/instagram.png" height="20px" width="20px"> https://www.instagram.com/felipevgomes10/ <br>
+<img src="https://img2.gratispng.com/20180529/str/kisspng-linkedin-computer-icons-logo-professional-network-social-networks-5b0d65b29ec943.2054111815276046586504.jpg" height="20px" width="20px"> https://www.linkedin.com/in/felipe-gomes-4b70221a8/ <br>
+<img src="https://i.pinimg.com/originals/a2/5f/4f/a25f4f58938bbe61357ebca42d23866f.png" height="20px" width="20px"> https://www.instagram.com/felipevgomes10/ <br>
 
 👋👋👋
