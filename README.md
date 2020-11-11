@@ -8,6 +8,8 @@ I'm Felipe Gomes, and I'm a front-end web developer.
 - [x] CSS3;
 - [x] JavaScript, ES6+;
 - [x] ReactJS;
+- [x] NextJS;
+- [x] WordPress API Rest;
 - [x] WordPress.
 
 ### 🔭 I’m currently working on: 
