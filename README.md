@@ -11,18 +11,16 @@ I'm Felipe Gomes, and I'm a front-end web developer.
 - [x] JavaScript, ES6+;
 - [x] ReactJS;
 - [x] NextJS;
-- [x] WordPress API Rest;
-- [x] WordPress;
 - [x] Redux;
 - [x] Styled-Components;
-- [x] Tailwind;
 - [x] Framer Motion.
 
-### 🔭 I’m currently working on: 
-Some projects of my own can be seen here. You can see a few of them in my repos, already.
+### 🔭 I’m currently working on:
+Currently, I'm working as Analyst Developer at NTT DATA.
+Plus, some projects of my own can be seen here. You can see a few of them in my repos, already.
 
 ### 🌱 I’m currently learning:
-ReactJS is one of the things I'm currently working on. In the near future I wanna learn React Native as well, so I can develop for mobile devices.
+I'm constantly learning new things and keeping up to date on new technologies on the market.
 
 ### 📫 You can reach me on:
 <img src="./img/twitter-2.png" height="20px" width="20px"> <a href="https://twitter.com/felipevgomes10">My twitter</a> </br>
