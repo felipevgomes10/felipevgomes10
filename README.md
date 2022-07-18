@@ -9,9 +9,12 @@ I'm Felipe Gomes, and I'm a front-end web developer.
 - [x] HTML5;
 - [x] CSS3;
 - [x] JavaScript, ES6+;
+- [x] Typescript;
+- [x] Material UI;
 - [x] ReactJS;
 - [x] NextJS;
 - [x] Redux;
+- [x] RTK Query;
 - [x] Styled-Components;
 - [x] Framer Motion.
 
