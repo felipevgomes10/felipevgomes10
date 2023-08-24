@@ -19,7 +19,7 @@ I'm Felipe Gomes, and I'm a front-end web developer.
 - [x] Framer Motion.
 
 ### 🔭 I’m currently working on:
-Currently, I'm working as Analyst Developer at NTT DATA.
+Currently, I'm working as Sr Software Engineer on AB-Inbev.
 Plus, some projects of my own can be seen here. You can see a few of them in my repos, already.
 
 ### 🌱 I’m currently learning:
