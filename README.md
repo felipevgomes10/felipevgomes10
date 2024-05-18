@@ -5,10 +5,10 @@
 ### Hi there 👋
 I'm Felipe Gomes, and I'm a front-end web developer.
 
-### ⚡ Things I know:
+### ⚡ Things I have worked with:
 - [x] HTML5;
 - [x] CSS3;
-- [x] JavaScript, ES6+;
+- [x] JavaScript;
 - [x] Typescript;
 - [x] Material UI;
 - [x] ReactJS;
@@ -17,6 +17,11 @@ I'm Felipe Gomes, and I'm a front-end web developer.
 - [x] RTK Query;
 - [x] Styled-Components;
 - [x] Framer Motion.
+- [x] Tailwind CSS
+- [x] Authjs
+- [x] React Query
+- [x] Web Application Performance
+- [x] Micro-frontends
 
 ### 🔭 I’m currently working on:
 Currently, I'm working as Sr Software Engineer on AB-Inbev.
