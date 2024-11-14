@@ -1,35 +1,23 @@
 <!-- https://utfs.io/a/oqi3glmmqm/WfWc1HX19bacCQvsmLTaX5dEIymQOcWnfbr6aY3zvGT91utx -->
 
-<div align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" height="200px" width="200px" />
-</div>
+## About me
 
-### Hi there 👋
-I'm Felipe Gomes, and I'm a front-end web developer.
+My name is Felipe, I've always liked technology and have been studying web development since I was a child. During high school, I studied at a technical school to learn more about this field. After that, I studied English Language in college (and graduated) because there weren't any technology-related courses in my city, but during the pandemic, I went back to self-studying with a focus on web development.
 
-### ⚡ Things I have worked with:
-- [x] HTML5;
-- [x] CSS3;
-- [x] JavaScript;
-- [x] Typescript;
-- [x] Material UI;
-- [x] ReactJS;
-- [x] NextJS;
-- [x] Redux;
-- [x] RTK Query;
-- [x] Styled-Components;
-- [x] Framer Motion.
-- [x] Tailwind CSS
-- [x] Authjs
-- [x] React Query
-- [x] Web Application Performance
-- [x] Micro-frontends
+Now I have been working professionally for 5 years in web development, focusing on JavaScript, TypeScript, and React applications with an emphasis on high performance, scalability, and user experience.
 
-### 🔭 I’m currently working on:
-Currently, I'm working as Sr Software Engineer on AB-Inbev.
-Plus, some projects of my own can be seen here. You can see a few of them in my repos, already.
+Currently, I work as a Senior React Developer for [ABInBev](https://www.ab-inbev.com/about-us), the world's largest brewing company.
 
-### 🌱 I’m currently learning:
-I'm constantly learning new things and keeping up to date on new technologies on the market.
+## Areas of interest
 
-👋👋👋
+Within web development, I focus on applications built with React. I always seek to deepen my knowledge in performance and user experience. You know when you access an application and it takes time to respond or shows loading states everywhere, making screen elements jump around? No user likes that kind of experience, and that's exactly what I specialize in.
+
+## Technologies
+
+- JavaScript
+- TypeScript
+- React.js
+- Next.js
+- Node
+- HTML
+- CSS

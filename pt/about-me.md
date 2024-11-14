@@ -1,35 +1,23 @@
 <!-- https://utfs.io/a/oqi3glmmqm/WfWc1HX19bacCQvsmLTaX5dEIymQOcWnfbr6aY3zvGT91utx -->
 
-<div align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" height="200px" width="200px" />
-</div>
+## Sobre mim
 
-### Hi there 👋
-I'm Felipe Gomes, and I'm a front-end web developer.
+Me chamo Felipe, sempre gostei da área de tecnologia e estudo desenvolvimento web desde que era uma criança. Durante o meu ensino médio estudei em uma escola técnica para aprender mais sobre esse mundo. Após isso cursei Língua Inglesa faculdade (me formei) pelo fato de que na minha cidade não tinha nenhum curso relacionada a tecnologia, mas durante a pandemia voltei a estudar por conta própria com foco em desenvolvimento web.
 
-### ⚡ Things I have worked with:
-- [x] HTML5;
-- [x] CSS3;
-- [x] JavaScript;
-- [x] Typescript;
-- [x] Material UI;
-- [x] ReactJS;
-- [x] NextJS;
-- [x] Redux;
-- [x] RTK Query;
-- [x] Styled-Components;
-- [x] Framer Motion.
-- [x] Tailwind CSS
-- [x] Authjs
-- [x] React Query
-- [x] Web Application Performance
-- [x] Micro-frontends
+Agora atuo profissionalmente há 5 anos na área de desenvolvimento web com foco em JavaScript, TypeScript e aplicações React de alta performance, escalabilidade e experiência do usuário. 
 
-### 🔭 I’m currently working on:
-Currently, I'm working as Sr Software Engineer on AB-Inbev.
-Plus, some projects of my own can be seen here. You can see a few of them in my repos, already.
+Atualmente trabalho como desenvolvedor React Sênior para [ABInBev](https://www.ab-inbev.com/about-us), a maior empresa cervejeira do mundo.
 
-### 🌱 I’m currently learning:
-I'm constantly learning new things and keeping up to date on new technologies on the market.
+## Áreas de interesse
 
-👋👋👋
+Dentro de desenvolvimento web foco em aplicações desenvolvidas com React. Sempre procuro me profundar cada vez mais em performance e experiência do usuário. Sabe quando você acessa uma aplicação e ela demora para responder ou mostra estados de carregamento para todo lado fazendo com que os elementos da tela fiquem pulando? Nenhum usuário gosta desse tipo experiência e é exatamente nisso que sou especializado.
+
+## Tecnologias
+
+- JavaScript
+- TypeScript
+- React.js
+- Next.js
+- Node
+- HTML
+- CSS
