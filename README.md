@@ -2,9 +2,9 @@
 
 ## About me
 
-My name is Felipe, I've always liked technology and have been studying web development since I was a child. During high school, I studied at a technical school to learn more about this field. After that, I studied English Language in college (and graduated) because there weren't any technology-related courses in my city, but during the pandemic, I went back to self-studying with a focus on web development.
+My name is Felipe, I've always liked technology and have been studying web development since I was a child. During high school, I studied at a technical school to learn more about this field. After that, I studied English Language in college (and graduated) because there weren't any technology-related courses in my city, but after some time, I went back to self-studying with a focus on web development.
 
-Now I have been working professionally for 5 years in web development, focusing on JavaScript, TypeScript, and React applications with an emphasis on high performance, scalability, and user experience.
+Now I have been working professionally for 5 years in web development, focusing on Javascript, Typescript, and React applications with an emphasis on high performance, scalability, and user experience. In addition, I'm studying Software Engineering in college because I also wanted to have the academic experience in the area.
 
 Currently, I work as a Senior React Developer for [ABInBev](https://www.ab-inbev.com/about-us), the world's largest brewing company.
 
@@ -14,8 +14,8 @@ Within web development, I focus on applications built with React. I always seek 
 
 ## Technologies
 
-- JavaScript
-- TypeScript
+- Javascript
+- Typescript
 - React.js
 - Next.js
 - Node
