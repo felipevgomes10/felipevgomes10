@@ -45,5 +45,37 @@
         }
       ]
     }
+  ],
+  "certificates": [
+    {
+      "name": "React and Performance",
+      "imageUrl": "https://utfs.io/a/oqi3glmmqm/WfWc1HX19bacqnigJ1lSHVl3qUnjbCNrIE6Azkt5fcOB8WmX",
+      "certificateUrl": "https://utfs.io/a/oqi3glmmqm/WfWc1HX19bacJrAczjo2unhMaWG57Ufj1VSICqRkXEv8b30Y"
+    },
+    {
+      "name": "React.js",
+      "imageUrl": "https://utfs.io/a/oqi3glmmqm/WfWc1HX19bacDIKMtPStsrwxiOgR4mTjXCeIozMvpPa2dFkV",
+      "certificateUrl": "https://utfs.io/a/oqi3glmmqm/WfWc1HX19baczcLE1oL8ZUCBKQqlfAW357OeyLFaxjYPcmpd"
+    },
+    {
+      "name": "Javascript",
+      "imageUrl": "https://utfs.io/a/oqi3glmmqm/WfWc1HX19bacCCwG20aX5dEIymQOcWnfbr6aY3zvGT91utxB",
+      "certificateUrl": "https://utfs.io/a/oqi3glmmqm/WfWc1HX19bacD8VZs4StsrwxiOgR4mTjXCeIozMvpPa2dFkV"
+    },
+    {
+      "name": "UI",
+      "imageUrl": "https://utfs.io/a/oqi3glmmqm/WfWc1HX19bacx8atjRNbdlgcofNmBDJnLUKCt398iEQGv17r",
+      "certificateUrl": "https://utfs.io/a/oqi3glmmqm/WfWc1HX19bacAOjQW3lG49il1R0UraxEsjGoem8TfIMY7O6N"
+    },
+    {
+      "name": "Certificados compilados",
+      "imageUrl": "https://utfs.io/a/oqi3glmmqm/WfWc1HX19bacztROY68ZUCBKQqlfAW357OeyLFaxjYPcmpdr",
+      "certificateUrl": "https://utfs.io/a/oqi3glmmqm/WfWc1HX19bacckFLQ1J4cGY8NTf0imkvzlwhDaujPHnt1MpO"
+    },
+    {
+      "name": "CSS Avançado",
+      "imageUrl": "https://utfs.io/a/oqi3glmmqm/WfWc1HX19bacAORaR6jG49il1R0UraxEsjGoem8TfIMY7O6N",
+      "certificateUrl": "https://utfs.io/a/oqi3glmmqm/WfWc1HX19bacs8PiOKG5Da49GAQrBdglfVqbUS5HFcyKsz2T"
+    }
   ]
 }
