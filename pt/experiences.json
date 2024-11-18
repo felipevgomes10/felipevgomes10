@@ -7,7 +7,7 @@
       "roles": [
         {
           "title": "Engenheiro de Software Sênior",
-          "startDate": "03/2023",
+          "startDate": "03/01/2023",
           "endDate": "",
           "description": ""
         }
@@ -20,14 +20,14 @@
       "roles": [
         {
           "title": "Engenheiro de Software Sênior",
-          "startDate": "11/2022",
-          "endDate": "03/2023",
+          "startDate": "11/01/2022",
+          "endDate": "03/01/2023",
           "description": ""
         },
         {
           "title": "Engenheiro de Software Analista",
-          "startDate": "11/2021",
-          "endDate": "11/2022",
+          "startDate": "11/01/2021",
+          "endDate": "11/01/2022",
           "description": ""
         }
       ]
@@ -39,8 +39,8 @@
       "roles": [
         {
           "title": "Engenheiro de Software Júnior",
-          "startDate": "02/2021",
-          "endDate": "11/2021",
+          "startDate": "02/01/2021",
+          "endDate": "11/01/2021",
           "description": ""
         }
       ]
