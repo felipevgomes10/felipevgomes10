@@ -1,0 +1,49 @@
+{
+  "experiences": [
+    {
+      "companyName": "AB InBev",
+      "companyImageUrl": "https://utfs.io/a/oqi3glmmqm/WfWc1HX19bacWhKqrDeX19bac7yZRTS8kqBrioKA4HQCeNU6",
+      "location": "Remote",
+      "roles": [
+        {
+          "title": "Senior Software Engineer",
+          "startDate": "03/2023",
+          "endDate": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "companyName": "NTT Data Europe & Latam",
+      "companyImageUrl": "https://utfs.io/a/oqi3glmmqm/WfWc1HX19bacWhKqrDeX19bac7yZRTS8kqBrioKA4HQCeNU6",
+      "location": "Remote",
+      "roles": [
+        {
+          "title": "Senior Software Engineer",
+          "startDate": "11/2022",
+          "endDate": "03/2023",
+          "description": ""
+        },
+        {
+          "title": "Analyst Software Engineer",
+          "startDate": "11/2021",
+          "endDate": "11/2022",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "companyName": "Slideworks",
+      "companyImageUrl": "https://utfs.io/a/oqi3glmmqm/WfWc1HX19baco5sCuq2DkeWijtp7T9N2ruZmglY03wdQGzsH",
+      "location": "Remote",
+      "roles": [
+        {
+          "title": "Junior Software Engineer",
+          "startDate": "02/2021",
+          "endDate": "11/2021",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}
